@@ -1,7 +1,3 @@
-To create a proper `README.md` file for your Car Rental Management System project, I’ll base it on the SQL file you’ve uploaded (`carrental.sql`) and the details you've shared earlier. Here's a complete and professional README:
-
----
-
 # Car Rental Management System
 
 The **Car Rental Management System** is a web-based application developed as part of a team project. It aims to simplify the process of renting cars by maintaining a database of customers, cars, bookings, and transactions.
